@@ -1,4 +1,9 @@
-## Hi there 👋
+## Noober
+I don't do much on Github anymore. I commit more elsewhere.
+
+- 🔭 I’m currently working on Violence of Action in Godot
+- 🌱 I’m currently learning multiplayer game development
+- 📫 How to reach me: Discord, Twitter, Instagram
 
 <!--
 **FunNoober/FunNoober** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
