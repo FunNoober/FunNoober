@@ -14,7 +14,7 @@ I don't do much on Github anymore. I commit more elsewhere.
 - Git CLI and Github
 - Linux Command Line
 
-**Links and Stuff:**
+**Links and Stuff:** \
 [YouTube](https://www.youtube.com/@FunNooberCodingForBeginners) \
 [X/Twitter](https://x.com/fun_noober) \
 [Instagram (outdated)](https://www.instagram.com/fun_noober/) \
