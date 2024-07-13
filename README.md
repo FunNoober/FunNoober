@@ -2,7 +2,7 @@
 I don't do much on Github anymore. I commit more elsewhere.
 
 - 🔭 I’m currently working on Violence of Action in Godot
-- 🌱 I’m currently learning multiplayer game development
+- 🌱 I’m currently learning Docker
 - 📫 How to reach me: Discord, Twitter, Instagram
 
 **Stuff I Know:**
