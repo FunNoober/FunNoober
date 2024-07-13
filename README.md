@@ -5,6 +5,15 @@ I don't do much on Github anymore. I commit more elsewhere.
 - 🌱 I’m currently learning multiplayer game development
 - 📫 How to reach me: Discord, Twitter, Instagram
 
+**Stuff I Know:**
+- 3d Game Development with Unity
+- 3d Game Development with Godot
+- Multiplayer game development with Godot
+- Building full-stack applications with SvelteKit
+- Tiny Amount of Go (No major projects)
+- Git CLI and Github
+- Linux Command Line
+
 <!--
 **FunNoober/FunNoober** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
