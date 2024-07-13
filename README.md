@@ -15,10 +15,9 @@ I don't do much on Github anymore. I commit more elsewhere.
 - Linux Command Line
 
 **Links and Stuff:**
-
-[YouTube](https://www.youtube.com/@FunNooberCodingForBeginners)
-[X/Twitter](https://x.com/fun_noober)
-[Instagram (outdated)](https://www.instagram.com/fun_noober/)
+[YouTube](https://www.youtube.com/@FunNooberCodingForBeginners) \
+[X/Twitter](https://x.com/fun_noober) \
+[Instagram (outdated)](https://www.instagram.com/fun_noober/) \
 [Discord (dead)](https://discord.gg/RysECTv)
 
 <!--
