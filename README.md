@@ -17,8 +17,6 @@ I don't do much on Github anymore. I commit more elsewhere.
 **Links and Stuff:** \
 [YouTube](https://www.youtube.com/@FunNooberCodingForBeginners) \
 [X/Twitter](https://x.com/fun_noober) \
-[Instagram (outdated)](https://www.instagram.com/fun_noober/) \
-[Discord (dead)](https://discord.gg/RysECTv)
 
 <!--
 **FunNoober/FunNoober** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
